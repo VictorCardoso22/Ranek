@@ -2,7 +2,7 @@
 
 Desenvolvido durante o curso de reactjs da origamid.
 
-- utilizando Fetchm api, useParams, Router, Link, Animações e Imagens. 
+- Utilizando Fetch api, useParams, Router, Link, Animações e Imagens. 
 
 ---
 
