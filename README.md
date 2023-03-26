@@ -1,3 +1,11 @@
+# Ranek
+
+Desenvolvido durante o curso de reactjs da origamid.
+
+- utilizando Fetchm api, useParams, Router, Link, Animações e Imagens. 
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
